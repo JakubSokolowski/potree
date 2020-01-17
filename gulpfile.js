@@ -154,7 +154,7 @@ gulp.task("shaders", async function(){
 	fs.writeFileSync(targetPath, content, {flag: "w"});
 });
 
-gulp.task('build', 
+gulp.task('build',
 	gulp.series(
 		gulp.parallel("workers", "lazylibs", "shaders", "icons_viewer", "examples_page"),
 		async function(done){
@@ -187,6 +187,7 @@ gulp.task('watch', gulp.parallel("build", "pack", "webserver", async function() 
 		'src/**/*.fs',
 		'resources/**/*',
 		'examples//**/*.json',
+		'viewer/**/*.html',
 		'!resources/icons/index.html',
 	];
 

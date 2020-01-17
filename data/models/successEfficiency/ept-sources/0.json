@@ -1,0 +1,61 @@
+{
+  "successEfficiency.las": {
+    "bounds": [
+      -50.2505,
+      -59.0863,
+      -53.1389,
+      54.957200000000014,
+      59.445800000000006,
+      56.9975
+    ],
+    "metadata": {
+      "comp_spatialreference": "",
+      "compressed": false,
+      "count": 100000,
+      "creation_doy": 11,
+      "creation_year": 2020,
+      "dataformat_id": 2,
+      "dataoffset": 227,
+      "filesource_id": 0,
+      "global_encoding": 0,
+      "global_encoding_base64": "AAA=",
+      "header_size": 227,
+      "major_version": 1,
+      "maxx": 54.9572,
+      "maxy": 59.4458,
+      "maxz": 56.9975,
+      "minor_version": 2,
+      "minx": -50.2505,
+      "miny": -59.0863,
+      "minz": -53.1389,
+      "offset_x": -51,
+      "offset_y": -60,
+      "offset_z": -54,
+      "point_length": 26,
+      "project_id": "00000000-0000-0000-0000-000000000000",
+      "scale_x": 1e-05,
+      "scale_y": 1e-05,
+      "scale_z": 1e-05,
+      "software_id": "                                ",
+      "spatialreference": "",
+      "srs": {
+        "compoundwkt": "",
+        "horizontal": "",
+        "isgeocentric": false,
+        "isgeographic": false,
+        "prettycompoundwkt": "",
+        "prettywkt": "",
+        "proj4": "",
+        "units": {
+          "horizontal": "unknown",
+          "vertical": ""
+        },
+        "vertical": "",
+        "wkt": ""
+      },
+      "system_id": "                                "
+    },
+    "origin": 0,
+    "points": 100000
+  }
+}

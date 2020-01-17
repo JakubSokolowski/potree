@@ -1,0 +1,18 @@
+[
+  {
+    "bounds": [
+      -50.2505,
+      -59.0863,
+      -53.1389,
+      54.957200000000014,
+      59.445800000000006,
+      56.9975
+    ],
+    "id": "successEfficiency.las",
+    "inserts": 100000,
+    "path": "/usr/data/SIM_23/models/successEfficiency.las",
+    "points": 100000,
+    "status": "inserted",
+    "url": "0.json"
+  }
+]
